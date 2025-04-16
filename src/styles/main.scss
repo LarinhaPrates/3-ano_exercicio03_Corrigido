@@ -63,6 +63,9 @@ img {
 .logo {
     font: 700 1.31rem var(--title-font);
     color: var(--title-color);
+    .footer{
+        color: var(--text-color-light);
+    }
 
     span {
         color: var(--base-color);
@@ -675,5 +678,3 @@ footer {
         --subtitle-font-size: 1.125rem;
     }
 }
-
-/* medium devices: 767 > */
